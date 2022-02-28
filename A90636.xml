@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The high-way to peace: or, a direction set forth for the composing of those unhappy differences betwixt King, Parliament, Army, City, and kingdomes : shewing the sad effects these distractions have brought upon the whole island. / Published for the honour and love he beares to his native countrey, by Sir Edvvard Peyton, Knight and baronet.</title>
+            <author>Peyton, Edward, Sir, 1588?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90636</idno>
+            <idno type="STC">Wing P1953</idno>
+            <idno type="STC">Thomason E411_12</idno>
+            <idno type="STC">ESTC R12435</idno>
+            <idno type="EEBO-CITATION">99859286</idno>
+            <idno type="PROQUEST">99859286</idno>
+            <idno type="VID">111358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111358)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E411[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The high-way to peace: or, a direction set forth for the composing of those unhappy differences betwixt King, Parliament, Army, City, and kingdomes : shewing the sad effects these distractions have brought upon the whole island. / Published for the honour and love he beares to his native countrey, by Sir Edvvard Peyton, Knight and baronet.</title>
+                  <author>Peyton, Edward, Sir, 1588?-1657.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 20th:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111358:1" rendition="simple:additions"/>
+            <p>
+               <hi>The High-way to Peace:</hi>
+            </p>
+            <p>Or, A DIRECTION ſet forth for the compoſing of thoſe unhappy differences betwixt King, Par<g ref="char:EOLhyphen"/>liament, Army, City, and Kingdomes:</p>
+            <p>Shewing the ſad effects theſe diſtractions have brought upon the whole Iſland.</p>
+            <p>Publiſhed for the honour and love he beares to his native Countrey,</p>
+            <p>By Sir EDVVARD PEYTON, Knight and Baronet.</p>
+            <p>
+               <hi>Patiar potior.</hi>
+            </p>
+            <p>Printed in the Yeere 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111358:2"/>
+            <pb n="1" facs="tcp:111358:2"/>
+            <head>The High-way to Peace:</head>
+            <p>
+               <seg rend="decorInit">A</seg>Stoniſhed with the preſent condition of the times, when all mens pens write (unpu<g ref="char:EOLhyphen"/>niſhed) what they pleaſe, without ſeri<g ref="char:EOLhyphen"/>ous contemplation of conveniency; af<g ref="char:EOLhyphen"/>ter much amazement, I recollected my thoughts, and eſteemed it a duty to adde this drop to the Ocean of what hath beene printed, with praiers firſt to the higheſt, to direct me to write a word or two, to induce an univerſall peace in this peece of ground, which hath no limits but ſea, heartily wiſhing I were a wiſe <hi>Eſculapius</hi> to expreſſe apples of gold, and pictures of ſilver; if it prove an antidote to cure the violent di<g ref="char:EOLhyphen"/>ſtempers, I ſhall be exceedingly glad, and if I labour in vaine, I have diſcharged my conſcience, though with much ſorrow.</p>
+            <p>The Phiſition can judge better of a Patient, by expe<g ref="char:EOLhyphen"/>rience in others; as a diſtempered man is more ſenſible of folly, by ſeeing Bedlam; therefore I ſet before your eyes as in a glaſſe to behold the peſt ilent diſeaſe of great B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittaine, what mortall cauſe was in the example, may be avoided in this Climate.</p>
+            <p>While ſome make the whole body deſperate by clan<g ref="char:EOLhyphen"/>deſtine plots<g ref="char:punc">▪</g> and pamphlets unrecoverable, on purpoſe to make Parliamentary Authority deſpicable, that no phi<g ref="char:EOLhyphen"/>ſick can helpe the diſtemper; others as ambitious Solons, new modell the State, or imitate the burner of a goodly
+<pb n="2" facs="tcp:111358:3"/>Epheſian Temple to be famous in after ſtories, much like Quackſalvers, heale an ulcer by a ſword thruſt through the bowells, which may kill the body, and not cure the Tumor; and therefore in the ſerious view of preſent af<g ref="char:EOLhyphen"/>faires, this age reſembles the Romane Senate, tyred with civill mutinies, groaning with burdens of ſeverall Ar<g ref="char:EOLhyphen"/>mies, and new impoſitions, and torne in pieces by envy of ſubdivided factions, by which weakened in authority, fell weary of the intolerable waight, let the government by a ſtrange dotage into the power of the boundles ambi<g ref="char:EOLhyphen"/>tion of <hi>Iulius Caeſar,</hi> who ſubdued the Senatorian great<g ref="char:EOLhyphen"/>neſſe, by ſingling out particulars, whom joyned hee could not prejudice.</p>
+            <p>For this Parliament (the beſt of all ſince the conqueſt) had power and opportunity to free the Nation from ſla<g ref="char:EOLhyphen"/>very; a ſickneſſe almoſt incurable, had not the phyſick of a juſt defenſive warre procured an incredible ſucceſſe.</p>
+            <p>The firſt they did in the edifice, was to deface Hyerar<g ref="char:EOLhyphen"/>chy, afore they could cleanſe the Church from rubbiſh, and droſſe, ſullied in time of Popery, waying ſeverall formes in the balance of the Sanctuary, fix't upon Pres<g ref="char:EOLhyphen"/>bytery; but finding a great diſtaſt from the ſeverity in the peoples pallet, mixt with the vinegar, ſweet milke, to abate the ſharpneſſe, and mittigate popular diſcontent, with appeale from the Clergy to lay men more pleaſing, then the reformed Churches of Europe uſed: Behold though there was analay, and their ſtomakes puked, and could not digeſt alteration of Biſhops, notwithſtanding Presbytery ſeemed Apoſtolicall, becauſe the words (without worldly pomp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) and Presbyter are <hi>Sunonymaes:</hi> So that a new tropicke is turned, and the time is come, all Mountaines to be abaſed, and obſtacles taken a way; for
+<pb n="3" facs="tcp:111358:3"/>the conquerour of hearts aſſailes all our Parliamentary power to let into Great Brittaine a new light and ſunſhine againſt all humane power, for ſuppoſing one as lawfull as the other.</p>
+            <p>All this effected the high Counſell lanching the ſhip of the S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e over many Parliamentary tempeſts, and various Rockes, God ſeemed to be diſpleaſed in the very frontiſ<g ref="char:EOLhyphen"/>peece of that Fabrick, with the Presbyterian pride, and inſolent auſterity of the Elders to their Superiors.</p>
+            <p>For the great Lord of the univerſe raiſed ſome Syra<g ref="char:EOLhyphen"/>phycall ſpirits to make a new diſcovery for ordering the Communion of Saints more agreeable to the word, then uſually knowne in the world; a controverſie I will not now diſcuſſe, the ſcope of my diſcourſe tending another way; namely to deſire a ſetled peace, and to ſhew the great danger wee run for reviving a new warre by Sali<g ref="char:EOLhyphen"/>mandrine ſpirits, oppoſing each other without a mild diſ<g ref="char:EOLhyphen"/>pute, and pleaſing converſe: For the people liſſening to the Paſtors violence of ſpirit, are ſet on fire to quarrell with all that hold the contrary, who from ſcolding fall to blowes, from buffets to ſwords and gunnes, by parties ſi<g ref="char:EOLhyphen"/>ding againſt parties, having a juſt ground, conceived to fall out about the breach of proteſtation, and brotherly, Covenant: they are ingaged to the Scotch Nation, whom I heartely wiſh may have good ſatisfaction by making manifeſt, that the order to be uſed by the Miniſters, ap<g ref="char:EOLhyphen"/>proacheth neerer the holy Scripture then theirs, and dif<g ref="char:EOLhyphen"/>fers only in forme, not eſſence; ſo the binds of amity may be kept in unity of ſpirit; though divided in judge<g ref="char:EOLhyphen"/>ment and opinion, to the end the proteſtation, and Co<g ref="char:EOLhyphen"/>venant made in the preſence of the Almighty, riſe not in judgement againſt us, to make us guilty of the crime of
+<pb n="4" facs="tcp:111358:4"/>
+               <hi>Laodislaus</hi> the Emperour, falſifying his faith with the Turke; who was ſlaine in the battle and place where the agreement was ſolemnly taken, and broken; whilſt ſome are for <hi>Apollo,</hi> and others for <hi>Caephas,</hi> yet both for Chriſt; the Scots pertake with ſome faction heere, to cauſe En<g ref="char:EOLhyphen"/>gland ſwim in blood, and hinder the building of Gods houſe, or be a <hi>Rrinora</hi> to the glory and felicity of the viſi<g ref="char:EOLhyphen"/>ble Church in the Martyrdome of many thouſands.</p>
+            <p>I feare therefore leſt this great conteſtation betweene Independent and Presbyter cauſe a fatall Tragedy, as happened to the Clergy and Laiety about celebration of Eaſter ſuch heart burning, and great perſecution; for that, as a branch growing from that tree of diviſion, ſprang up the moſt horrible Arrian Hereſie, which troubled the Church many yeares, till God raiſed a Counſell, diſpel<g ref="char:EOLhyphen"/>led the Aegyptian darkneſſe by diſtinguiſhing the words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which appeaſed the irreconcileable difference projected of two letters by Sathan, to make a ſchiſme, and our Saviours death for ſalvation invallid: ſo I truſt God will raiſe Evangelicall ſpirits to bring that glorious woman out of the Wilderneſſe (propheſied of in the Revelation) who may be Midwives to deliver her of the moſt ardent truth, to cure our frenſicall part, that the fulneſſe of the Gentiles may more ſpeedily enſue, and conſequently the remnant of the Jewes be gathered.</p>
+            <p>And certainely the Divell hath ſtirred up our hereſies on purpoſe to breake the neck of Parliaments by the in<g ref="char:EOLhyphen"/>ſtigation of divers forraigne Jeſuits come over, who adde fewell to our flame, either by Sermons or Counſells, and conſequently will indanger the Parliament, as did the Ar<g ref="char:EOLhyphen"/>minian in Holland.</p>
+            <p>Surely wee are in the ſame danger the States of Hol<g ref="char:EOLhyphen"/>land
+<pb n="5" facs="tcp:111358:4"/>were, when <hi>Philip</hi> the ſecond of Spaine acknowled<g ref="char:EOLhyphen"/>ged them a free State; ſo as ſoone as it had life by the vigilancy of Grave <hi>Maurice</hi> (a brave and wiſe Souldier) the miracle was, it had not buriall by the Artifices, and faction of <hi>Barnevelt,</hi> the chiefe of which he cut off with great celerity, and ſo diſperſed the rable who intended their ruine.</p>
+            <p>The Parliament after a long and dangerous voyage, brought to a good paſſe by the warre ended, there aroſe a difficulty to diſperſe and diſpoſe the Army, long diverted from ſending ſupplies into Ireland, by home-bred trou<g ref="char:EOLhyphen"/>bles, becauſe they had not paid the Souldier, who were unwilling to disband without their arreares: A wonder an Army ſo glorious (in the opinion of all) ſhould be diſ<g ref="char:EOLhyphen"/>miſſed without ſalory: in conſideration wherof the hou<g ref="char:EOLhyphen"/>ſes very well reſented their worth and valour; yet found they wanted ready monies, and therefore were forced to ſolicite the City (where they might command) to iſſue money on good ſecurity to reward the Souldiery; but their anſwer was, they would not till they were caſhered, for ſome in London were contrary in faction to the armed forces, and the Army to the City, affirming (as it was juſt) in plaine words they would not lay downe their weapons till they received their pay in part, and ſecurity for the reſt, fearing to be ſerved as the reduced Officers, for a time without money, meat, and cloathes.</p>
+            <p>So that there was a double Set to be played, one to get moneys, and another to disband; a diſcontented victorious Army, denyed the one, and diſappointed of the other; the Parliament was put to their trumps, and forced to play the game another way.</p>
+            <p>By this time the great Counſell ſaw it impoſſible at
+<pb n="6" facs="tcp:111358:5"/>one and the ſame time to ſatisfie the Souldier, and pleaſe the City, becauſe ſome few diſcontented perſons (that well ordered City is not without) growing imaged a<g ref="char:EOLhyphen"/>gainſt the ſupreame Judges, ſent a number of unruly Prentices to force their unjuſt demands (a preſident with<g ref="char:EOLhyphen"/>out patterne, and violence never heard of) this cauſed both the houſes to have their own<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> guards, and not the Cities, of purpoſe to ſecure their perſons, debate freely, prevent future moleſtation, and remedy repining miſ<g ref="char:EOLhyphen"/>chiefes likely to invade the peace of the State.</p>
+            <p>By this it may appeare plainely the hindrance of our proſperity lies in the plots of malecontents, not in the Parliament nor Army the deſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the one is to ſend, and the willingneſſe of the other ſpeedily to be ſent away, and not like a vulture to eate out the bowells of the Coun<g ref="char:EOLhyphen"/>trey by free quarter, a charge only for the peoples juſt defence againſt forraigne or domeſtick foes which might invade or diſturbe their quiet.</p>
+            <p>Yet at the preſent there wanted not peſtilent ſpirits would ſet a bone twixt Parliament and Army, and twixt both and Scotland; though our wiſe Senate labour with might and maine to ſettle a common peace heere, and in both Nations, as his Excellency Sir <hi>Thomas Fairefax,</hi> and Counſell of Warre indeavour to bring the Souldier to obedience, and give content to the Scot.</p>
+            <p>Whereupon the Souldier guarded the Parliament, and ſecured the Tower, that no tumults moleſt the Parlia<g ref="char:EOLhyphen"/>men, nor infeſt the City.</p>
+            <p>By this time the wiſdome of the great Counſell hath retrived (by wofull experience) the haunt of thoſe who ſlight their endeavours (though with much expence, toyl<g ref="char:EOLhyphen"/>ſome labour of body, and danger of perſon) they conti<g ref="char:EOLhyphen"/>nue,
+<pb n="7" facs="tcp:111358:5"/>then continue to bring to paſſe the happy condition of Church and State, when others ſeeke more their owne ends, then Gods glory, and good of the Kingdome.</p>
+            <p>For ſuch people it is impoſſible to pleaſe; for where inconſtancy poſſeſſeth the heart (a long travell to bring felicity to perfection) is moſt irkſome, never conſidering affaires of ſo great conſequence cannot be effected, but with long labour, and much reluctancy.</p>
+            <p>So that the people jealous of a new warre, raiſed on the baſis of their late payments are ſtirred up with an ear<g ref="char:EOLhyphen"/>neſt deſire to be rocked in two cradles, affected moſt to wit, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſe with reſt and peace, knowing full well warre brings a conſumption to a Kingdome how rich ſoever; e<g ref="char:EOLhyphen"/>ſpecially the wiſe ſeeing ſome Countries without corne, others without ſtock, ſome without Tennants, others with<g ref="char:EOLhyphen"/>out money, ſome without Cattle, others burthened with free quarter, all concommitants of Civill Warre, which makes all long (like a woman with child) to be brought a bed of a well grounded peace; hoping as in that laſt ſea<g ref="char:EOLhyphen"/>ven yeares of our <hi>Henry</hi> the third, what miſchiefe, and diſſolation warre had cauſed in almoſt thiry yeares ill government, was repaired by aprentiſhip of yeeres, for which he was called the Juſtinian of his time.</p>
+            <p>So now if the ſtorme were paſt, and ſeaven yeeres ne<g ref="char:EOLhyphen"/>ver ſo unfortunate, the Common weale may become in a ſhort ſpace fat and faire: So that nothing can be more cordiall then to have no Army at all; for the people feare that power may become dangerous, when Land and Sea are inveſted in the perſon of one, that what is given to a ſervant, may be uſurped as an abſolute Maſter; as <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the 7 made the right of his Queene his owne, and ſo buried her title; not knowing where Religion is plac'ſt
+<pb n="8" facs="tcp:111358:6"/>in the heart, there can be no treachery in the action, and what is lent for a time will be reſtored to the proprietor.</p>
+            <p>Therefore I beſeech all to conſider, the cauſe of our danger is the wrath of God which hanges over our heads (as a diſmall cloud) ready to diſcharge upon us for many horrid opinions, and blaſphemies; as ſwearing, propha<g ref="char:EOLhyphen"/>nation of Sabbaths, drunkenneſſe, fornication, adultery, will-worſhip, formality, hatred, malice and liberty to do what pleaſeth ſence, though never ſo contrary to the eter<g ref="char:EOLhyphen"/>nall Law, the leaſt of which are heavy enough to pull downe the greateſt judgement, namely ſin puniſhed in committing of ſin; O that wee could (with <hi>Ieremy</hi>) ſhed a fountaine of teares!</p>
+            <p>Certainely it is not the malignity of the ayre cauſeth the Plague, plotting and humane device, warre, combi<g ref="char:EOLhyphen"/>ning of the Graſier and Farmer, ſcarcity, but our grie<g ref="char:EOLhyphen"/>vous ſins, and want of love bring upon us theſe evills; wherefore let us leave our tranſgreſſions, and be charita<g ref="char:EOLhyphen"/>ble one to the other; for hatred bringeth diviſion, di<g ref="char:EOLhyphen"/>ſtraction, mutinies, oppoſition, and armed forces; let us have care eſpecially of tender conſciences, which will be ſooner convinced by ſweetneſſe then ſeverity; let not Presbyter hate Independent, Independent Presbyter, Proteſtant Papiſt, Papiſt Proteſtant, Browniſt Anabap<g ref="char:EOLhyphen"/>tiſt, nor Anabaptiſt Browniſt; but let all reaſon together<g ref="char:punc">▪</g> with mildneſſe, the beſt ſtill to confute errour, and fitteſt meanes to worke out truth, as the ſteele gently ſtrikes out of the flint, fire falling upon tinder of good deſires, kin<g ref="char:EOLhyphen"/>dles the match of pious affections, and ſo lights the can<g ref="char:EOLhyphen"/>dle of knowledge to ſhew the beaten way God hath ap<g ref="char:EOLhyphen"/>pointed to walke in, if not a new yet a brighter way: ſo ſhall the noone day of underſtanding be cleared, and no
+<pb n="9" facs="tcp:111358:6"/>twilight of errour and miſtake.</p>
+            <p>Fot ſwavity cauſeth <hi>Iaphet</hi> to dwell in the Tents of <hi>Sem,</hi> fulfilling the divine Propheſie of theſe latter times, 11 Eſay. 6 78 9.10.11. The Wolfe ſhall dwell with the Lambe, the Leopard lye downe with the Kid, and the Lyon, and the Fatling together, and they ſhall not hurt nor deſtroy, ſaith God, in all my holy Mountaine: this plainely inſinuateth that all ſeverity and harſhneſſe ſhould be baniſhed from Gods people, and love in ſweetneſſe be towards one another, for the Wolfe, Leopard, and Lyon are cruell beaſts of pray, which devoure the Lambe, Kid, and Fatling are innocent creatures; ſo that if the cruell, and innocent ſhall agree in all Gods Mountainer, by which is meant his Church: Then tender conſciences ought not to be forced, nor private duties in Families prohibi<g ref="char:EOLhyphen"/>ted, that God may bleſſe this State, that piety may a<g ref="char:EOLhyphen"/>bound, and Parliament and City not oppoſe each other; for ſeverity cauſeth diſtractions, where Magiſtrares have no power, nor Nobility and Gentry reſpect, holding all things in common: And if ſeverity of Presbyters rage over weake conſciences, they may uſurpe the tempe<g ref="char:EOLhyphen"/>rall power over perſons, eſtates, and purſes, and become as Antichriſtian as the Popes of Rome, and worſe then our late Biſhops; for when the Clergy rules over the conſciences of people, temperall power may out face, ne<g ref="char:EOLhyphen"/>ver governe, and ſo by inſenſible degrees become hum<g ref="char:EOLhyphen"/>blers of States, a courſe contrary to Apoſtolicall Doctrine which prohibits to Lord over Gods heritage when no man can know the conſcience but a Diety, no more then the heart unleſſe they had the infalibility of the ſpirit; ſo by this they trod the beaten path of the Romane Church when the Popes raiſed the mount of Supremacy over
+<pb n="10" facs="tcp:111358:7"/>Kings, and Potentates, a pride would not be pulled down, though aſſaied by many Emperors and Princes.</p>
+            <p>If Parliament and Army are at a diſtance, the one hath no power to command, nor the other will to obey.</p>
+            <p>When the Parliament is againſt the City, the Cities Charter may be queſtioned, Monopolies and Impoſiti<g ref="char:EOLhyphen"/>ons will be on Marchandize, and manufactures to over<g ref="char:EOLhyphen"/>throw Merchants and tradſemen, and the Parliament ſhall not have the Citizens purſes at their command with their will and ability as they ought; for if the Phyſitian and Patient ſhould fall together by the eares, the Phyſick may be as well poyſon as holeſome, for the high Senate pur<g ref="char:EOLhyphen"/>geth Monopolies, and vomits up Impoſitions that trade and marchandize may flouriſh.</p>
+            <p>The City and Countrey bring branches from the tree of one roote, ought to accord as loving brothers, and are then happy; but if they fall at variance, and diſturbe each others pretious peace, what a world of miſchiefe will inſue? Beſides bloodſhed; how can the City vent their forraine commodities? When the Countrey may live of their homebread; or how can the Countrey ſell their broad cloathes, ſtuffes, fuſtians, cheeſe, wheate, malt, or cattle, with divers others (too long) to recite?</p>
+            <p>If City and Army ſtand at a diſtance, and oppoſe each other, the one may ſtarve the other, ſtopping proviſions by Land and Water, nor the Army have pay, but from the Magazin of the City to maintaine their forces.</p>
+            <p>Laſtly if England and Scotland have a warre, they will never be reconciled, but become goades in one ano<g ref="char:EOLhyphen"/>ther ſides, revive deadly fewd, and (which is worſe for us) Scotland will batch a portall to let in forraine ene<g ref="char:EOLhyphen"/>mies, as French, Dutch, Spaniard, and Dane, to cauſe
+<pb n="11" facs="tcp:111358:7"/>the ſeate of the warre to be heere, more advantagious to the invader, then the invaded; and more over meete heere with a ſtrong Presbyterian Party to aſſiſt them, made an<g ref="char:EOLhyphen"/>gry and revengefull againſt others by Pulpits.</p>
+            <p>On the contrary ſide, the Scots ſhall finde us hardy, reſolute, valiant, and incounter with an invincible Army, whom God hath bleſſed, and I hope will: and certaine<g ref="char:EOLhyphen"/>ly I doe not ſee what colour the Scots have to invade us covenanting ſolemnly to aſſiſt us; for when they ſide with a party, they will ruine themſelves to deſtroy us; for they ſhall adde fewell to make a flame, when they ſhould quench the fire.</p>
+            <p>They cannot come on our Engliſh ground, till our Parliament vote them; or if they ſhall invade us without our conſent, they are to be reputed enemies, violators of peace, plunderers of our Countrey, to inrich themſelves by our poverty; let them know, their intruſion without command of Parliament revives the noble tenure of Eſcu<g ref="char:EOLhyphen"/>age, which many of the Kingdome hold by, to ſerve a<g ref="char:EOLhyphen"/>gainſt them with horſe and foote, till they be beaten out, the number of thoſe who hold by that ſervice (by ancient ſurvey) have beene computed forty thouſand horſe and foote, and if ſuch Tennants ſhall refuſe they forfeit their eſtates.</p>
+            <p>Doe they conceive King <hi>Charles</hi> will protect a Nati<g ref="char:EOLhyphen"/>on that ſold him? Or thoſe that priſed him more then gold? Moreover every wiſe man will rather joyne with rich then with poore, his Majeſties revennues being year<g ref="char:EOLhyphen"/>ly a Million heere, not there a hundred thouſand pounds. I have ſpoke this becauſe they threaten us with Declara<g ref="char:EOLhyphen"/>tions; yet I honour the Nation, and deſire they may have ſatisfaction to a tittle; but if they ſhall perſiſt, and
+<pb n="12" facs="tcp:111358:8"/>nothing ſhall ſatisfie them but blood, they will loſe their arreares, get nothing but blowes, and ſet up their reſt u<g ref="char:EOLhyphen"/>pon one battle (out of their power to raiſe another;) nor doe I ſee what ſafe retreats they have, but what is gotten by blood, and ſo make the addage true, they come for nought but our goods, not to right our wrongs, but to fight with us, not to ſettle religion, but for lucre and gaine.</p>
+            <p>O fooliſh England, will yee nouriſh ſerpents in your boſomes, ambitious to be Lords of your eſtates? Will you ayde and aſſiſt thoſe that will ruine your Kingdome? And will you become traytors to your owne Countrey? I aſſure you the Law of England will make you ſo; this I have ſpoken rather to deter their illegall invaſion, then provoke them: for the force of all my minde ſhall carry it ſelfe to perſwade brothers to agree in unity, and to aſſiſt one ano<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h hearts, lives, and fortunes in a juſt and pious war deſired of both; for I honour the Nation, and ſhould be grieved, people of one Iſland ſhould be cut in two pieces, brothers in Chriſt ſhould become mortall enemies, who (joyntly) are able to vanquiſh France, or Spaine. I humbly beſeech God to reconcile us together; let the lamentable example of us, and Ireland be before our eyes, a back doore to let in a forraigne enemy ſubjects of the ſame Soveraigne, though oppoſite in religion, as in their mindes, of whom it hath been ſaid, that they were good ſervants; but when they got the key of power into their hands are bad Maſters, governed by one, (indeede) no Law, witneſſe the unnaturall bloodſhed there, how can barbarous cruelty be revenged, as long as we have civill war?</p>
+            <p>Moreover an Army divided cannot ſtand, therefore my humble ſuite to the Generall, Councell of war, Agi<g ref="char:EOLhyphen"/>tators,
+<pb n="13" facs="tcp:111358:8"/>and Common Souldier is, to hold together, who joy<g ref="char:EOLhyphen"/>ned are a ſheafe of arrowes, but diſjoyned may ſheath their ſwords in one anothers bowells, or be vanquiſhed; for then martial law will be of no force &amp; validity; how often have the Romane Cohorts, and Turkiſh Janniſaries, choſe new Empe<g ref="char:EOLhyphen"/>rours, kild their Commanders, and Generalls, and at laſt they ruined one another? the ſword is a good ſervant, but a bad Maſter.</p>
+            <p>Or if the Souldier and Countrey jangle together, the Army will become odious, and none willing to harbour them, much leſſe give free quarter.</p>
+            <p>Likewiſe if the Parliament be divided (as a houſe) it can<g ref="char:EOLhyphen"/>not ſtand, the Rights of Parliaments and Subjects will be de<g ref="char:EOLhyphen"/>ſtroyed, and they utterly vanquiſhed, as the Romane Senate by <hi>Caeſar,</hi> then ſhall all wickednes go ſcotfree and unpuniſhed.</p>
+            <p>Certainely, Monarchy muſt not infringe the liberty of the people, nor people deſtroy Monarchy.</p>
+            <p>For the compoſition of our government is partly Monar<g ref="char:EOLhyphen"/>chiall, partly Ariſtocraticall, and will not admit of a dominion ſolely in the people, as it appeared plainly in the 15 yeare of <hi>Edw.</hi> 3. when they fell at variance in the choice of great Of<g ref="char:EOLhyphen"/>ficers of State, they turned the courſe from the people into the royall channell; the Phyloſophers ſtone may turne iron and braſſe into gold and ſilver; but not gold and ſilver into baſer mettalls, no more can the Soveraigne power be tranſ<g ref="char:EOLhyphen"/>ferd on the people, nor the right of the people converted to the Soveraigne; for then Kings (without Law) may do what they liſt, have power of life at their pleaſure; on the other ſide if power were in the ordinary ſort there would be Anarchy, and totall confuſion, therefore are the Lawes, that Kings may governe their Subjects with equity and juſtice, as the Subject obey the Soveraigne, and the King love and preſerve the Sub<g ref="char:EOLhyphen"/>jects lives and eſtates, by a legall way not fancy or pleaſure: for the Lawes are Judges betwixt King and Subject, and Sub<g ref="char:EOLhyphen"/>ject and Subject, otherwiſe the Kingdome will periſh, rich tread downe the poore, widdow and fatherleſſe will loſe their right, people be oppreſſed? property utterly loſt, and Religion will turne Atheiſme.</p>
+            <p>
+               <pb n="14" facs="tcp:111358:9"/>The Common-wealth is a body (wherein are head and members) and King and Subjects, who ought to have a ſym<g ref="char:EOLhyphen"/>pathy and fellow feeling one of anothers wants, and commu<g ref="char:EOLhyphen"/>nicate to each other all the good they can; all degres (as notes in muſick) make a harmony of love, depend on, and ſweetly relate to others; as the ſtars in the firmament of ſeverall mag<g ref="char:EOLhyphen"/>nitudes agree in quality and nature with the ſeven Planets, or as the heavens, where God is ſupreame, are Arch-angels, and Angels, miniſtringto each other.</p>
+            <p>Wherefore my thrice humble ſuite is to King, Parliament, City, Coun<g ref="char:EOLhyphen"/>trey, Army, and Scotland, to unite in love, and joyne together againſt for<g ref="char:EOLhyphen"/>raine and domeſtick enemies of the State, that riches may mereaſe, the King<g ref="char:EOLhyphen"/>dome may be well governed, Religion flouriſh, and God be honoured, other<g ref="char:EOLhyphen"/>wiſe we ſhall be like a great animall, as the Duke of Rohan ſaith, which doth nothing but deſtroy it ſelfe, when two ſo brave Kingdomes ſhall lay violent hands and murther one another.</p>
+            <p>Eſpecially my humble prayer to my native Countrey, is to live in amity a<g ref="char:EOLhyphen"/>mongſt themſelves. A people have been the glory of Europe, conquerors of France, vanquiſhers of Paleſtina from the Saracens, defenders of the Pro<g ref="char:EOLhyphen"/>teſtant Religion<g ref="char:punc">▪</g> who (I fay) have ſet the Crowne of France on the head of <hi>Hen.</hi> 4. at the expence of that Famous Queen <hi>Eliz.</hi> the glory of her ſex) and by the proweſſe of our brave <hi>Norrice,</hi> and the Engliſh Cavalry, oppoſed Spaine in all her glory, and at laſt brought her upon her knees, have been the greateſt Antagoniſts of Rome, Protectors of the 15 Provinces, a ſafe ſanctuary for the exiled Proteſtants, and inferior to no Countrey in valour.</p>
+            <p>God give th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Counſell above a command; let us imbrace it, and love one another with due reſpect, duty to whom duty, and love to all, that future proofe may not turne diſcourſes into a ſanguine die, nor peace into bloudy war; ſo ſhall our ſwords be turned into plowſhares, ſpades, and inſtru<g ref="char:EOLhyphen"/>ments of husbandry, and right troden downe, ſhill be revived.</p>
+            <p>And I humbly intreate you not to looke ſo much to errors paſt, as for<g ref="char:EOLhyphen"/>wards; carry your ſelves like wiſe, and brave men, for feare while wee looke to puniſh others, we receive a blow ſhall take away power of puniſhment, and life it ſelfe: And when a calme comes you may locke upon Delin<g ref="char:EOLhyphen"/>quents with a ſevere face of juſtice; and after every man may have diſtribu<g ref="char:EOLhyphen"/>ted to him the dole of his due birthright; therefore let not the quarrelling Knave win a Cataſtrophe in our State, but the beſt of cards prevaile for or<g ref="char:EOLhyphen"/>der, peace, and piety. Amen.</p>
+            <epigraph>
+               <q>
+                  <hi>Gloria Patri, Filio &amp; Spiritui ſancto, maximam pacem Eccleſiae &amp; Republicae toto corde &amp; animo opto.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
